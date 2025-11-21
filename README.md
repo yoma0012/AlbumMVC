@@ -26,15 +26,25 @@ This project demonstrates my understanding of **MVC architecture**, **C# backend
 
 ## 📁 Project Structure
 AlbumMVC/
+
 │── Controllers/
+
 │ └── AlbumController.cs
+
 │── Models/
+
 │ └── Album.cs
+
 │── Views/
+
 │ │── Album/
+
 │ │ ├── Index.cshtml
+
 │ │ └── Details.cshtml
+
 │── wwwroot/
+
 │── Program.cs / Startup.cs
 
 
